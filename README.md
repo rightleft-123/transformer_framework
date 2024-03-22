@@ -1,5 +1,5 @@
 # transformer_framework
-Simple try in transformer by making a basic framework without backward propagation 
+Simple try in transformer by making a basic framework(not project specific)
 
 # The making lists
 1. Design the `position encoder`(sinusoidal), the `position wise feed forward network` and the `attention mask`(encoder, decoder, encoder-decoder mask)
